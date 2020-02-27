@@ -1,0 +1,36 @@
+{
+  "name": "setup-from-scratch",
+  "version": "1.0.0",
+  "description": "Here you can find the step by step to create a React app from scratch with the minimum requirements and setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebaxtian/learn-react-free.git"
+  },
+  "keywords": [
+    "React",
+    "Node",
+    "JSX",
+    "ReactDOM",
+    "JavaScript",
+    "NodeJS",
+    "ReactJS",
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "DOM"
+  ],
+  "author": "Sebastian Rios Sabogal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebaxtian/learn-react-free/issues"
+  },
+  "homepage": "https://github.com/sebaxtian/learn-react-free#readme",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
