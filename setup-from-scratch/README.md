@@ -70,3 +70,6 @@ promt$ npm install @hot-loader/react-dom css-loader style-loader eslint eslint-p
 - Create [webpack.config.js](./webpack.config.js) in the root and copy the contents of the generated file
 - Create [.babelrc](./.babelrc) in the root and copy the contents of the generated file
 - Create folders src and dist and create source code files
+
+# Step 7
+
