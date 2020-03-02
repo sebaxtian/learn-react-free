@@ -38,7 +38,7 @@ promt$ npm install react react-dom react-hot-loader --save
 Install [Webpack](https://webpack.js.org/guides/installation/):
 
 ```bash
-promt$ npm install webpack webpack-cli webpack-dev-server --save-dev
+promt$ npm install webpack webpack-cli webpack-dev-server clean-webpack-plugin webpack-merge --save-dev
 ```
 
 ## Step 4

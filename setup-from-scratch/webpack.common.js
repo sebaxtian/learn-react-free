@@ -1,11 +1,12 @@
 const webpack = require('webpack');
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 const config = {
   entry: [
     'react-hot-loader/patch',
-    './src/index.js'
+    './src/js/index.js'
   ],
   output: {
     path: path.resolve(__dirname, 'dist'),
@@ -47,13 +48,12 @@ const config = {
       'react-dom': '@hot-loader/react-dom'
     }
   },
-  devServer: {
-    contentBase: './dist'
-  },
   plugins: [
+    new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-        template: require('html-webpack-template'),
-        inject: false,
+        title: 'Setup from Scratch',
+        template: './src/html/index.html',
+        inject: true,
         appMountId: 'app',
         filename: 'index.html'
       })
