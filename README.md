@@ -8,4 +8,7 @@ Learn React for Free is a Scrimba course, I did enrolled in it and is the easies
 
 You can in dive into Scrimba courses here: https://scrimba.com/c/c8gp4WfE
 
+## Gitpodifying — The Ultimate Guide
+- [Solving common preview problems](https://www.gitpod.io/blog/gitpodify/#solving-common-preview-problems)
+
 That's all for now ...
