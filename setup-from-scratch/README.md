@@ -73,3 +73,8 @@ promt$ npm install @hot-loader/react-dom css-loader style-loader eslint eslint-p
 
 # Step 7
 
+Follow the instructions and setup Webpack for production and develop environment:
+
+- [Setup Webpack best practices](https://webpack.js.org/guides/production/)
+
+Split the Webpack configuration file in common, dev and prod files.
