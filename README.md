@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/sebaxtian/learn-react-free) 
+
 # learn-react-free
 With this repo, I would like to share a couple of examples and steps in order to learn React and become me a React Developer.
 
