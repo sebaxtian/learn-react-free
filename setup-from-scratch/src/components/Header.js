@@ -2,8 +2,8 @@ import React from "react";
 
 function Header() {
     return (
-        <div>
-            <nav>
+        <header>
+            <nav className="navbar">
                 <h1>Hello World!</h1>
                 <ul>
                     <li>Thing 1</li>
@@ -11,7 +11,7 @@ function Header() {
                     <li>Thing 3</li>
                 </ul>
             </nav>
-        </div>
+        </header>
     );
 }
 
