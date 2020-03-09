@@ -1,0 +1,17 @@
+.dog-card {
+    flex-basis: 250px;
+    margin: 20px;
+}
+
+.dog-card > img {
+    width: 100%;
+    height: auto;
+}
+
+.dog-card > h3 {
+    text-align: center;
+}
+
+.dog-card > p {
+    font-size: 12px;
+}
